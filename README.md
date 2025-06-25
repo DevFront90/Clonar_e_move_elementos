@@ -5,6 +5,7 @@ Como Clonar Elementos
 O método clone() do jQuery cria uma cópia completa de um elemento, incluindo todos os seus atributos e conteúdo interno:
 
 javascript
+
 var elemento = $('#meuElemento').clone();
 
 A clonagem é útil quando você precisa duplicar elementos sem afetar o original, mantendo toda a estrutura HTML e CSS aplicada.
