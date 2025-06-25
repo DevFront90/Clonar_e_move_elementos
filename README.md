@@ -13,6 +13,7 @@ Como Mover Elementos
 Para mover elementos entre diferentes containers, utilizamos métodos como appendTo(), prependTo(), ou insertAfter():
 
 javascript
+
 $('#elementoOrigem').appendTo('#novoContainer');
 
 Diferente da clonagem, mover um elemento remove ele de sua posição atual e o coloca no novo local especificado.
